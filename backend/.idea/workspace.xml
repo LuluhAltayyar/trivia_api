@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a66096c9-858d-4085-b9a8-94116b72a910" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/.idea/starter_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/versions/01ca5329b39f_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/versions/57d153763d59_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/versions/5db55e634b0c_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/migrations/versions/6ed3d30fec21_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_artist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/edit_venue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_artist.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_artist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_venue.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_fyyur/starter_code/templates/forms/new_venue.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1joke1LKC3cOl0ojF0Hs2pI1eOm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a66096c9-858d-4085-b9a8-94116b72a910" name="Default Changelist" comment="" />
+      <created>1604477923753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604477923753</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1604477929041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1604477929041" />
+  </component>
+</project>
